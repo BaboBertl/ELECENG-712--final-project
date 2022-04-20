@@ -1,2 +1,2 @@
 # ELECENG-712
-Digital Imaging - Term Project
+Digital Imaging - Final Project
